@@ -25,5 +25,5 @@
   "eslintConfig": {
     "extends": "./node_modules/standard/eslintrc.json"
   },
-  "homepage": "https://LuisQuiiroz.github.io/to-do"
+  "homepage": "https://luisquiiroz.github.io/to-do"
 }
